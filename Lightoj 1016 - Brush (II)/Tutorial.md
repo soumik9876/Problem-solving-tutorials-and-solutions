@@ -1,3 +1,5 @@
+Author: Soumik Roy
+
 **<b>Hint:</b> In this problem, x axis doesn't matter since the brush can be moved along x axis and all dust points with same y axis can be cleaned with 
 the same operation.
 
